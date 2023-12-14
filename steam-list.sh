@@ -15,4 +15,4 @@
 
 STEAMPATH="/home/$USER/.steam/steam/steamapps/common"
 DESKTOPPATH="/home/$USER/Desktop"
-ls -1 $STEAMPATH > $DESKTOPPATH/installed-steam-games.csv
+ls -1 $STEAMPATH > $DESKTOPPATH/installed-steam-games.txt
