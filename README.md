@@ -1,2 +1,2 @@
 # steam-list
-Create a .csv file of Steam games installed on a system
+Create a .txt file of Steam games installed on a *buntu system on your desktop
